@@ -1,0 +1,5 @@
+O usuário deve pegar o arquivo "calculadora.sh"
+armazenar em um diretório a escolha e executar
+no prompt de comando com o seguinte comando:
+"python3 calculadora.sh" caso utilize um programa
+diferente do python3 fazer as devidas alterações
